@@ -1,4 +1,4 @@
-#About Me
+<h1> About Me</h1>
 - 👋 Hi, I’m @AdamCichoski
 - 👀 I’m interested in software engineering and development, AI and machine learning, and video game design
 - 🌱 I’m currently comfortable with programming in Java, C++, and C#, I am adept with programming in Python,
