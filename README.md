@@ -1,6 +1,9 @@
 <h1> 
   About Me
 </h1>
+<h3> 
+  Attending University of North Carolina at Greensboro studying Computer Science
+</h3>
 
 - 👋 Hi, I’m @AdamCichoski
 - 👀 I’m interested in software engineering and development, AI and machine learning, and video game design
